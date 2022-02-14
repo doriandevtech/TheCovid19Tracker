@@ -10,7 +10,7 @@ The main goal of this project is to display datas about the Covid-19 pandemic.\
 Multiple informations are displayed :
 - confirmed cases
 - recovered people
-- deaths\
+- deaths
 
 ## Which stack had been used ?
 
