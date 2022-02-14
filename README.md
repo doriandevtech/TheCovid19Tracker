@@ -1,3 +1,30 @@
+## What is the outcome of this project ?
+
+The main goal of this project is to display datas about the Covid-19 pandemic.\
+
+Multiple informations are displayed :
+- confirmed cases
+- recovered people
+- deaths\
+
+## Which stack had been used ?
+
+The following stack is used in this project :\
+
+For UI development :
+- React : 17.0.2
+- React-chartJS-2 : 4.0.1
+- Classnames : 2.3.1
+
+For API calls :
+- Axios : 0.25.0
+
+For design :
+- Material UI
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
