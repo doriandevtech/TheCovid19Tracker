@@ -12,6 +12,12 @@ Multiple informations are displayed :
 - recovered people
 - deaths
 
+![Numbers - corona19-tracker](https://user-images.githubusercontent.com/61510923/153920041-6ff5a041-d806-4413-87a2-b025b2afb941.png)
+
+Let you see the pattern of infections and deaths since the beginning of the pandemic until today :
+
+![Line chart - coronoa19-tracker](https://user-images.githubusercontent.com/61510923/153920247-4ccdaf27-cc47-47fc-97ae-8b1800e188fd.png)
+
 ## Which stack had been used ?
 
 The following stack is used in this project :
