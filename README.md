@@ -1,1 +1,0 @@
-# corona19-tracker
