@@ -5,7 +5,7 @@ Here is a link that will let you run the app without having to clone the repo an
 
 ## What is the outcome of this project ?
 
-The main goal of this project is to display datas about the Covid-19 pandemic.\
+The main goal of this project is to display datas about the Covid-19 pandemic.
 
 Multiple informations are displayed :
 - confirmed cases
@@ -14,7 +14,7 @@ Multiple informations are displayed :
 
 ## Which stack had been used ?
 
-The following stack is used in this project :\
+The following stack is used in this project :
 
 For UI development :
 - React : 17.0.2
