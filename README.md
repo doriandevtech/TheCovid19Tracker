@@ -16,7 +16,7 @@ Multiple informations are displayed :
 
 Let you see the pattern of infections and deaths since the beginning of the pandemic until today :
 
-![Line chart - coronoa19-tracker](https://user-images.githubusercontent.com/61510923/153920247-4ccdaf27-cc47-47fc-97ae-8b1800e188fd.png)
+![Incident rate - Line chart - corona19-tracker](https://user-images.githubusercontent.com/61510923/154365282-8121951d-735a-444c-8029-0584f28ae00c.png)
 
 ## Which stack had been used ?
 
