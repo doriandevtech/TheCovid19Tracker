@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardContent, Typography, Grid } from '@material-ui/core';
+import { Card, CardContent, Typography, Grid, Box, CircularProgress } from '@material-ui/core';
 import CountUp from 'react-countup';
 import cx from 'classnames';
 
@@ -7,8 +7,17 @@ import styles from './Cards.module.css';
 
 const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
     if (!confirmed) {
-        return 'Loading...';
+        return (
+            <div className={styles.container}>
+            <Grid container justifyContent="center">
+                <Box gutterBottom className={cx(styles.loader)}>
+                    <CircularProgress />
+                </Box>
+            </Grid>
+            </div>
+        )
     }
+
 
     return (
         <div className={styles.container}>
