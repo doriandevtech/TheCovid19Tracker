@@ -23,7 +23,7 @@ Let you see the pattern of infections and deaths since the beginning of the pand
 The following stack is used in this project :
 
 For UI development :
-- React : 17.0.2
+- React : 17.0.2 ⚛️
 - React-chartJS-2 : 4.0.1
 - Classnames : 2.3.1
 
