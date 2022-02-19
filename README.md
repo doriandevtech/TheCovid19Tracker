@@ -24,14 +24,14 @@ The following stack is used in this project :
 
 For UI development :
 - React : 17.0.2 ⚛️
-- React-chartJS-2 : 4.0.1
+- React-chartJS-2 : 4.0.1 📈
 - Classnames : 2.3.1
 
 For API calls :
 - Axios : 0.25.0
 
 For design :
-- Material UI
+- Material UI 👨🏻‍🎨
 
 ## What is the vision of the corona19-tracker project ?
 
