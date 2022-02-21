@@ -23,14 +23,14 @@ Let you see the pattern of infections and deaths since the beginning of the pand
 The following stack is used in this project :
 
 For UI development:
-- React : 17.0.2 ⚛️
-- React-chartJS-2 : 4.0.1 📈
-- Classnames : 2.3.1
+- React: 17.0.2 ⚛️
+- React-chartJS-2: 4.0.1 📈
+- Classnames: 2.3.1
 
-For API calls :
-- Axios : 0.25.0
+For API calls:
+- Axios: 0.25.0
 
-For design :
+For design:
 - Material UI 👨🏻‍🎨
 
 ## What is the vision of the corona19-tracker project ?
