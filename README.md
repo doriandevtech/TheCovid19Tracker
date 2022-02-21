@@ -31,7 +31,7 @@ For API calls:
 - Axios: 0.25.0
 
 For design:
-- Material UI 👨🏻‍🎨
+- Material UI: 4.12.3
 
 ## What is the vision of the corona19-tracker project ?
 
