@@ -10,6 +10,7 @@ The main goal of this project is to display datas about the Covid-19 pandemic.
 Multiple informations are displayed :
 - confirmed cases
 - recovered people
+- incident rate
 - deaths
 
 ![Numbers - corona19-tracker](https://user-images.githubusercontent.com/61510923/153920041-6ff5a041-d806-4413-87a2-b025b2afb941.png)
