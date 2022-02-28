@@ -1,9 +1,12 @@
 import React from "react";
 
-import { Cards, Chart, CountryPicker, DatePicker } from './components';
+import { Cards, Chart, CountryPicker } from './components';
+// import { DatePicker } from './components';
+
 import styles from './App.module.css';
 
-import { fetchData, fetchDailyData } from './api';
+import { fetchData } from './api';
+// import { fetchDailyData } from './api';
 
 import coronaImage from './images/image.png';
 
