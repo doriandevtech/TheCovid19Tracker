@@ -1,6 +1,6 @@
 # Welcome to the Corona19-tracker 😷 project !
 
-Here is a link that will let you run the app without having to clone the repo and run it on your local machine : https://doriandevtech.github.io/corona19-tracker/
+Here is a link that will let you run the app without having to clone the repo and run it on your local machine : https://tracker-app-covid19.netlify.app
 
 
 ## What is the outcome of this project ?
