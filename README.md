@@ -10,6 +10,7 @@ The main goal of this project is to display datas about the Covid-19 pandemic.
 Multiple informations are displayed :
 - confirmed cases
 - recovered people
+- incident rate
 - deaths
 
 ![Numbers - corona19-tracker](https://user-images.githubusercontent.com/61510923/153920041-6ff5a041-d806-4413-87a2-b025b2afb941.png)
@@ -22,16 +23,16 @@ Let you see the pattern of infections and deaths since the beginning of the pand
 
 The following stack is used in this project :
 
-For UI development :
-- React : 17.0.2 ⚛️
-- React-chartJS-2 : 4.0.1 📈
-- Classnames : 2.3.1
+For UI development: 🔨
+- React: 17.0.2 ⚛️
+- React-chartJS-2: 4.0.1 📈
+- Classnames: 2.3.1
 
-For API calls :
-- Axios : 0.25.0
+For API calls: 📞
+- Axios: 0.25.0
 
-For design :
-- Material UI 👨🏻‍🎨
+For design: 👨🏻‍🎨
+- Material UI: 4.12.3
 
 ## What is the vision of the corona19-tracker project ?
 
