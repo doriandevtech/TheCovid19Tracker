@@ -44,7 +44,7 @@ class App extends React.Component {
                 <img className={styles.image} src={coronaImage} alt="COVID-19"/>
                 <Cards data={data} />
                 <CountryPicker handleCountryChange={this.handleCountryChange} />
-                <DatePicker handleDateChange={this.handleDateChange} />
+                {/* <DatePicker handleDateChange={this.handleDateChange} /> */}
                 <Chart data={data} country={country} date={date}/>
             </div>
         )
